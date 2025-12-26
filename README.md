@@ -46,7 +46,7 @@ int main() {
 }
 ~~~
 # Output:
-![alt text](1.1.png)
+![alt text](1.png)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -92,7 +92,7 @@ int main() {
 }
 ~~~
 # Output:
-![alt text](1.2.png)
+![alt text](2.png)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -133,7 +133,7 @@ int main() {
 }
 ~~~
 # Output:
-![alt text](1.3.png)
+![alt text](3.png)
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
@@ -202,7 +202,7 @@ int main() {
 }
 ~~~
 # Output:
-![alt text](1.4.png)
+![alt text](4.png)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -263,6 +263,6 @@ int main(){
 }
 ~~~
 # Output:
-![alt text](1.5.png)
+![alt text](5.png)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
